@@ -25,4 +25,4 @@ Estos datos pueden ser utilizados para:
 - Validación de instituciones mediante código AMIE.
 
 ---
-📅 Última actualización: Agosto 2025
+📅 Última actualización: Abril 2026
